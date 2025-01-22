@@ -1,26 +1,20 @@
-<h1 align="center">**Hey there 👋, I'm Axel Velasquez,**</h1> 
+<h1 align="center">👋 Hey there, I'm Axel Velasquez!</h1>  
+<h2 align="center"><i>I hope you like it here</i></h2>  
 
-<h2 align="center"> <i>And I hope you like it here</i></h2>
+<p align="center">
+I'm a passionate freelance web developer based in Vancouver, BC. Here, you'll find an ever-growing collection of my projects, tools, and ideas. Feel free to explore, fork, or star anything that catches your eye. Whether you're looking for inspiration, collaboration, or just a good read, you're in the right place!
+</p>
 
-<p align="center"> I am a freelance web developer based on Vancouver BC, and you are currently roaming around my repos. Take whatever you'd like/need, and feel free to contact me whenever you'd like I am open for any kind of collabs/issues you may need help with. You should definitely check out my portfolio to delve deeper into who I am!</p>
+<p align="center">
+Got a project in mind? Stuck on an issue? I’m always open to collaborations and eager to help fellow developers. Don’t hesitate to reach out!
+</p>
+
+<p align="center">
+To learn more about me, my journey, and the work I do, check out my portfolio. It's packed with insights into my skills, completed projects, anlong with a touch of who I am. 
+</p>
 
 <div align="center">
-  <p align="center"><a href="https://axelvelasquezportfolio.vercel.app/" alt="axel's website">Check out my portfolio!</a></p>
+  <a href="https://axelvelasquezportfolio.vercel.app/" alt="Axel Velasquez Portfolio">
+    <strong>💻 Visit My Portfolio 💻</strong>
+  </a>
 </div>
-
-
-
-<!--
-**LMSAIH/LMSAIH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

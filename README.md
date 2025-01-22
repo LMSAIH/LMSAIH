@@ -1,6 +1,12 @@
 <h1 align="center">**Hey there 👋, I'm Axel Velasquez,**</h1> 
 
-<h2 align="center"> And I hope you like it here</h2>
+<h2 align="center"> <i>And I hope you like it here</i></h2>
+
+<p align="center"> I am a freelance web developer based on Vancouver BC, and you are currently roaming around my repos. Take whatever you'd like/need, and feel free to contact me whenever you'd like I am open for any kind of collabs/issues you may need help with. You should definitely check out my portfolio to delve deeper into who I am!</p>
+
+<div align="center">
+  <p align="center"><a href="https://axelvelasquezportfolio.vercel.app/" alt="axel's website">Check out my portfolio!</a></p>
+</div>
 
 
 

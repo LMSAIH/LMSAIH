@@ -18,3 +18,7 @@ To learn more about me, my journey, and the work I do, check out my portfolio. I
     <strong>💻 Visit My Portfolio 💻</strong>
   </a>
 </div>
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxubWhobDJva24yemp4YnlwcnU5OWt2aHRsbDNhaHFuNHJldzZvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="github gif">
+</div>

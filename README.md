@@ -1,6 +1,8 @@
-# **Hey there 👋, I'm Axel Velasquez,
+<h1 align="center">**Hey there 👋, I'm Axel Velasquez,**</h1> 
 
-## *And I hope you like it here!*
+<h2 align="center"> And I hope you like it here</h2>
+
+
 
 <!--
 **LMSAIH/LMSAIH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

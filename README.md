@@ -19,7 +19,7 @@ Want to know more about me, my journey, and the work I do? Check out my portfoli
   </a>
 </div>
 
-<h2> 👨‍💻 Hope to hear from you soon. </h2>
+  <h2 align="center"> Looking forward to meeting you 👨‍💻  </h2>
 
 <div align="center"">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxubWhobDJva24yemp4YnlwcnU5OWt2aHRsbDNhaHFuNHJldzZvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub gif">

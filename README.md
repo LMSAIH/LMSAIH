@@ -1,4 +1,6 @@
-## Hi there 👋
+# **Hey there 👋, I'm Axel Velasquez,
+
+## *And I hope you like it here!*
 
 <!--
 **LMSAIH/LMSAIH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

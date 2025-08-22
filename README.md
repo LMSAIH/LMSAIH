@@ -14,7 +14,7 @@ Want to know more about me, my journey, and the work I do? Check out my portfoli
 </p>
 
 <div align="center">
-  <a href="https://axelvelasquezportfolio.vercel.app/" alt="Axel Velasquez Portfolio">
+  <a href="https://axelvelasquez.dev/" alt="Axel Velasquez Portfolio">
     <strong>💻 Visit My Portfolio 💻</strong>
   </a>
 </div>
